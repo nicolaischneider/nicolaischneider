@@ -5,7 +5,7 @@ Senior iOS developer at a German security company, specializing in mobile driver
 ![Issuing](https://img.shields.io/badge/Issuing-ISO23220--3,%20OID4VCI-lightblue)
 ![Presentation](https://img.shields.io/badge/Presentation-ISO18013--5/7,%20OID4VP-lightblue)
 
-Creator of “[100 Questions](https://www.100questions.club/)”, a social game that has been live since 2017 with ~20k monthly users across iOS and Android. Currently developing a cycle tracker and an AI-powered fitness app for personalized workouts.
+Creator of [100 Questions](https://www.100questions.club/), a social game that has been live since 2017 with ~20k monthly users across iOS and Android. Currently developing a cycle tracker and an AI-powered fitness app for personalized workouts.
 
 ![Live](https://img.shields.io/badge/Live-100Questions-lightgreen)
 ![WIP](https://img.shields.io/badge/WIP-Phases,%20Fitness%20AI%20App-yellow)
