@@ -1,4 +1,4 @@
-## Hi, I'm Nicolai
+## Hi, I'm Nicolai 👋
 
 Senior iOS developer at a German security company, specializing in mobile driver’s licenses and vehicle registration certificates based on international identity standards (ISO/IEC, OIDC). Expertise in identity protocols and secure mobile solutions.
 
