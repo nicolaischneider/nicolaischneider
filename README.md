@@ -10,7 +10,7 @@ On the side, I work on multiple projects. [100 Questions](https://www.100questio
 ![Live](https://img.shields.io/badge/Live-100Questions-lightgreen)
 ![WIP](https://img.shields.io/badge/WIP-Phases,%20Fitness%20AI%20App-yellow)
 
-Extracted reusable code from “100 Questions” into Swift packages for UIKit layout, StoreKit2 integration, camera handling, and social media uploads. Actively used in production with strong empirical performance.
+I’ve published several Swift packages extracted from [100 Questions](https://www.100questions.club/), covering UIKit layout, StoreKit2 integration, camera handling, and social media uploads. Actively used in production with proven performance.
 
 ![StoreKitTheKit](https://img.shields.io/badge/SPM-StoreKitTheKit-lightgreen)
 ![SimpleConstraints](https://img.shields.io/badge/SPM-SimpleConstraints-lightgreen)
