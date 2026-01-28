@@ -5,12 +5,12 @@ Senior iOS developer at a German security company, specializing in mobile driver
 ![Issuing](https://img.shields.io/badge/Issuing-ISO23220--3,%20OID4VCI-lightblue)
 ![Presentation](https://img.shields.io/badge/Presentation-ISO18013--5/7,%20OID4VP-lightblue)
 
-On the side, I work on multiple projects. [100 Questions](https://www.100questions.club/) has been my most successful one yet - a social game that has been live since 2017 with ~20k monthly users across iOS and Android. Currently developing a cycle tracker and an AI-powered fitness app for personalized workouts.
+On the side, I work on multiple projects such as [Phases](https://apps.apple.com/de/app/phases-private-period-tracker/id6741391560), a Cycle Tracker with focus on privacy, and [100 Questions](https://www.100questions.club/), my most successful one yet - a social game that has been live since 2017 with ~30k monthly users at its peak across iOS and Android. Currently developing an ai-powered voice message processor to summarize whatsapp/immessage voice messages into a simpler text format - it's name is probably the greatest part: **SpareMe**.
 
-![Live](https://img.shields.io/badge/Live-100Questions-lightgreen)
-![WIP](https://img.shields.io/badge/WIP-Phases,%20Fitness%20AI%20App-yellow)
+![Live](https://img.shields.io/badge/Live-100Questions,%20Phases-lightgreen)
+![WIP](https://img.shields.io/badge/WIP-SpareMe-yellow)
 
-I’ve published several Swift packages extracted from [100 Questions](https://www.100questions.club/), covering UIKit layout, StoreKit2 integration, camera handling, and social media uploads. Actively used in production with proven performance.
+I've published several Swift packages from nearly a decade of iOS development, covering UIKit layout, StoreKit2 integration, camera handling, and social media uploads. Actively used in production with proven performance across multiple apps including [100 Questions](https://www.100questions.club/) and [Phases](https://apps.apple.com/de/app/phases-private-period-tracker/id6741391560).
 
 ![StoreKitTheKit](https://img.shields.io/badge/SPM-StoreKitTheKit-lightgreen)
 ![SimpleConstraints](https://img.shields.io/badge/SPM-SimpleConstraints-lightgreen)
