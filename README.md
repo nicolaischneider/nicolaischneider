@@ -17,6 +17,8 @@ I've published several Swift packages from nearly a decade of iOS development, c
 ![SwiftCameraKit](https://img.shields.io/badge/SPM-SwiftCameraKit-lightgreen)
 ![SwiftSocialKit](https://img.shields.io/badge/SPM-SwiftSocialKit-lightgreen)
 
+Beyond app development, I’m a passionate builder working on whatever genuinely excites me, which is why you'll find all sorts of random repositories on my profile such as [obsidian RAGsody](https://github.com/nicolaischneider/obsidianRAGsody), [app-store-kw-rv-eng](https://github.com/nicolaischneider/app-store-kw-rv-eng) or [cmdmgr](https://github.com/nicolaischneider/cmdmgr). As of recently, I also developed a strong interest in quantitative trading. 
+
 #### Tech Stack
 
 ![Working](https://img.shields.io/badge/Working-Swift,%20Python-lightgreen)
