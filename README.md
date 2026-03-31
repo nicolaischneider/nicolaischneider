@@ -22,4 +22,4 @@ Beyond app development, I’m a passionate builder working on whatever genuinely
 #### Tech Stack
 
 ![Working](https://img.shields.io/badge/Working-Swift,%20Python-lightgreen)
-![Learning](https://img.shields.io/badge/Learning-Go,%20ML,%20LLMs-yellow)
+![Learning](https://img.shields.io/badge/Learning-Quant,%20ML,%20LLMs-yellow)
