@@ -1,6 +1,6 @@
 ## Hi, I'm Nicolai 👋
 
-Senior iOS developer at a German security company, specializing in mobile driver’s licenses and vehicle registration certificates based on international identity standards (ISO/IEC, OIDC). Expertise in identity protocols and secure mobile solutions.
+iOS Architect at a German security company, specializing in mobile driver’s licenses and vehicle registration certificates based on international identity standards (ISO/IEC, OIDC). Expertise in identity protocols and secure mobile solutions.
 
 ![Issuing](https://img.shields.io/badge/Issuing-ISO23220--3,%20OID4VCI-lightblue)
 ![Presentation](https://img.shields.io/badge/Presentation-ISO18013--5/7,%20OID4VP-lightblue)
